@@ -1,5 +1,6 @@
 #ifndef ADD_H
 #define ADD_H
 
-void mainLoop();
+void printHi();
+void wifiScan();
 #endif
