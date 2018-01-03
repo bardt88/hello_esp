@@ -1,7 +1,7 @@
 #ifndef ADD_WIFILOGIN
 #define ADD_WIFILOGIN
 
-#define wlSSID "Jajajaneeneenee"
-#define wlPASS "automobiel"
+#define wlSSID "SSID"
+#define wlPASS "PASSWORD"
 
 #endif
