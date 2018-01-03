@@ -2,3 +2,4 @@ build
 .clang_complete
 .gcc-flags.json
 .travis.yml
+wifiLogin.h
