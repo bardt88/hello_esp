@@ -19,3 +19,13 @@ void readSound() {
 	soundValue = analogRead(T9);
 	Serial.println(soundValue);
 }
+
+void ledBlink(int a, int b, int c){
+	for (int i = 0; i < a ; ++i)
+	{
+		digitalWrite(2, HIGH);
+		delay(b);
+		digitalWrite(2, LOW);
+		delay(c);
+	}
+}
